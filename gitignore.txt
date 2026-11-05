@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.venv/
+.gradio/
+indices_output/
+processed.tif
+mask.npy
+mask_ndwi.npy
+_calibrated.tif
